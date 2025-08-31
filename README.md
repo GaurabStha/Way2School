@@ -21,3 +21,6 @@ It leverages government open datasets and graph analytics to make school journey
 
 🌱 Impact:
 Way2School diverts cars from school gates during peak windows, improves child safety on the last mile, and equips planners with evidence for smarter infrastructure investment.
+
+Check out [Way2School](https://way2school.streamlit.app/).
+
