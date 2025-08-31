@@ -1,0 +1,136 @@
+school_name,students_2025,num_school_routes,school_lat,school_lon,students_per_route,nearest_pr_location,nearest_pr_suburb,pr_distance_km,pr_suitability,congestion_risk,priority_score
+Canberra Grammar School,2028,5,,,405.6,,,,Low/Investigate (add/expand P&R),High,4
+Radford College,1754,1,,,1754.0,,,,Low/Investigate (add/expand P&R),High,4
+Canberra High School,838,1,,,838.0,,,,Low/Investigate (add/expand P&R),High,4
+Mother Teresa School,801,1,,,801.0,,,,Low/Investigate (add/expand P&R),High,4
+Red Hill Primary School,725,1,,,725.0,,,,Low/Investigate (add/expand P&R),High,4
+North Ainslie Primary School,674,1,,,674.0,,,,Low/Investigate (add/expand P&R),High,4
+Fraser Primary School,545,1,,,545.0,,,,Low/Investigate (add/expand P&R),High,4
+Wanniassa Hills Primary School,432,1,,,432.0,,,,Low/Investigate (add/expand P&R),High,4
+Theodore Primary School,401,1,,,401.0,,,,Low/Investigate (add/expand P&R),High,4
+Charnwood-Dunlop School,398,1,,,398.0,,,,Low/Investigate (add/expand P&R),High,4
+Canberra Girls Grammar School,1399,5,,,279.8,,,,Low/Investigate (add/expand P&R),Medium,3
+Alfred Deakin High School,877,4,,,219.25,,,,Low/Investigate (add/expand P&R),Medium,3
+St John Paul II College,797,3,,,265.6666666666667,,,,Low/Investigate (add/expand P&R),Medium,3
+Holy Spirit Primary School,748,2,,,374.0,,,,Low/Investigate (add/expand P&R),Medium,3
+Campbell High School,719,3,,,239.66666666666666,,,,Low/Investigate (add/expand P&R),Medium,3
+Mount Stromlo High School,661,2,,,330.5,,,,Low/Investigate (add/expand P&R),Medium,3
+Orana Steiner School,618,2,,,309.0,,,,Low/Investigate (add/expand P&R),Medium,3
+St Jude's Primary School,444,2,,,222.0,,,,Low/Investigate (add/expand P&R),Medium,3
+Blue Gum Community School,234,1,,,234.0,,,,Low/Investigate (add/expand P&R),Medium,3
+Amaroo School,2001,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Harrison School,1805,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St Mary MacKillop College,1784,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Marist College Canberra,1599,14,,,114.21428571428571,,,,Low/Investigate (add/expand P&R),Low,2
+Burgmann Anglican School,1529,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Telopea Park School,1410,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Daramalan College,1407,7,,,201.0,,,,Low/Investigate (add/expand P&R),Low,2
+Gold Creek School,1273,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St Francis Xavier College,1192,8,,,149.0,,,,Low/Investigate (add/expand P&R),Low,2
+Gungahlin College,1170,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+The Canberra College,1164,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Trinity Christian School,1138,12,,,94.83333333333333,,,,Low/Investigate (add/expand P&R),Low,2
+Lyneham High School,1119,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St Clare's College,961,11,,,87.36363636363636,,,,Low/Investigate (add/expand P&R),Low,2
+Brindabella Christian College,950,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Narrabundah College,939,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Dickson College,892,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Kingsford Smith School,887,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Neville Bonner Primary School,852,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Melrose High School,810,11,,,73.63636363636364,,,,Low/Investigate (add/expand P&R),Low,2
+St Edmund's College Canberra,806,11,,,73.27272727272727,,,,Low/Investigate (add/expand P&R),Low,2
+Lake Tuggeranong College,720,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Holy Family Primary School,720,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Namadgi School,710,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Caroline Chisholm School,706,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Good Shepherd Primary School,702,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Palmerston District Primary School,697,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Ngunnawal Primary School,684,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Majura Primary School,674,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Merici College,671,8,,,83.875,,,,Low/Investigate (add/expand P&R),Low,2
+Melba Copland Secondary School,651,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Chapman Primary School,645,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Garran Primary School,627,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Aranda Primary School,623,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St Clare of Assisi Primary School,600,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Macgregor Primary School,595,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Miles Franklin Primary School,590,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Kaleen Primary School,576,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Curtin Primary School,570,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+University of Canberra Senior Secondary College Lake Ginninderra,565,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Mount Rogers Primary School,565,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Forrest Primary School,550,4,,,137.5,,,,Low/Investigate (add/expand P&R),Low,2
+Turner School,524,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Torrens Primary School,516,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Lyneham Primary School,515,3,,,171.66666666666666,,,,Low/Investigate (add/expand P&R),Low,2
+Arawang Primary School,513,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Florey Primary School,510,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Gordon Primary School,509,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Maribyrnong Primary School,498,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Erindale College,493,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Weetangera Primary School,492,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St Anthony's Parish Primary School,490,9,,,54.44444444444444,,,,Low/Investigate (add/expand P&R),Low,2
+Hawker College,482,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Mawson Primary School,477,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Hughes Primary School,471,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Wanniassa School,458,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Yarralumla Primary School,458,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St Francis of Assisi Primary School,449,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Duffy Primary School,448,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Monash Primary School,446,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Belconnen High School,435,2,,,217.5,,,,Low/Investigate (add/expand P&R),Low,2
+Ainslie School,421,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Charles Conder Primary School,419,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St Monica's Primary School,419,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Campbell Primary School,400,2,,,200.0,,,,Low/Investigate (add/expand P&R),Low,2
+St Thomas Aquinas Primary School,397,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Macquarie Primary School,397,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Hawker Primary School,390,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Holy Trinity Primary School,388,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Farrer Primary School,372,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Charles Weston School,371,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Calwell High School,366,2,,,183.0,,,,Low/Investigate (add/expand P&R),Low,2
+Bonython Primary School,359,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Taylor Primary School,355,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Lanyon High School,350,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Fadden Primary School,348,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St John the Apostle Primary School,343,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+University of Canberra High School Kaleen,340,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Latham Primary School,335,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Giralang Primary School,332,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Evatt Primary School,332,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Emmaus Christian School,327,7,,,46.714285714285715,,,,Low/Investigate (add/expand P&R),Low,2
+St Matthew's Primary School,318,3,,,106.0,,,,Low/Investigate (add/expand P&R),Low,2
+St Joseph's Primary School,317,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Gowrie Primary School,312,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Calwell Primary School,310,2,,,155.0,,,,Low/Investigate (add/expand P&R),Low,2
+Franklin School,306,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Sacred Heart Primary School,298,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Rosary Primary School,290,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St Thomas The Apostle Primary School,287,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Sts Peter & Paul Primary School,245,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Southern Cross Early Childhood School,222,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Islamic School of Canberra,214,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St Vincent's Primary School,196,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St Michael's Primary School,195,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Isabella Plains Early Childhood School,188,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St John Vianney's Primary School,178,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Richardson Primary School,170,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Covenant Christian School,166,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St Benedict's Primary School,155,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Canberra Christian School,152,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St Thomas More's Primary School,147,2,,,73.5,,,,Low/Investigate (add/expand P&R),Low,2
+Narrabundah Early Childhood School,143,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Gilmore Primary School,129,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+St Bede's Primary School,124,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Lyons Early Childhood School,120,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Black Mountain School,108,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Canberra Montessori School,107,2,,,53.5,,,,Low/Investigate (add/expand P&R),Low,2
+Koori Preschool,86,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Cranleigh School,86,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+The Woden School,80,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+O'Connor Cooperative School,80,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Malkara School,77,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Taqwa School,77,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Jervis Bay School,56,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
+Communities@Work Galilee School,36,0,,,,,,,Low/Investigate (add/expand P&R),Unknown (no school-only routes),2
